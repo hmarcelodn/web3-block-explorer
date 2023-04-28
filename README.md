@@ -129,7 +129,7 @@ Good luck and have fun!
 
 ## 6. Development
 
-<img width="1396" alt="Screen Shot 2023-04-28 at 13 58 05" src="https://user-images.githubusercontent.com/5897525/235209201-a263c4e6-aebb-4f56-a418-42b19e49f805.png">
-
 <img width="1391" alt="Screen Shot 2023-04-28 at 13 57 50" src="https://user-images.githubusercontent.com/5897525/235209228-7a654bc0-b23d-4946-9c9f-65d9590623a0.png">
 
+
+<img width="1396" alt="Screen Shot 2023-04-28 at 13 58 05" src="https://user-images.githubusercontent.com/5897525/235209201-a263c4e6-aebb-4f56-a418-42b19e49f805.png">
