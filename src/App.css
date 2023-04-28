@@ -1,6 +1,8 @@
-.App {
+.App .app__blockNumber {
   text-align: center;
 }
+
+
 
 .App-logo {
   height: 40vmin;
